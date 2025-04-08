@@ -7,7 +7,6 @@
 
 <p align="center">
   Unity 기반 인디 게임 개발자입니다!<br>
-  현재 "Send S.O.S"라는 3D 플랫포머 게임을 개발 중입니다.
 </p>
 
 ---
