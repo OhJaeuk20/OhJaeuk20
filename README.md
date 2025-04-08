@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👋 안녕하세요! 저는 OhJaeuk입니다!</h1>
 
-<!--
-**OhJaeuk20/OhJaeuk20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Unity 기반 인디 게임 개발자입니다!<br>
+  현재 "Send S.O.S"라는 3D 플랫포머 게임을 개발 중입니다.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 기술 스택
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-2023+-black?logo=unity&style=flat-square" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square" alt="C#" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" alt="C++" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=flat-square" alt="Unreal Engine 5" />
+</p>
+
+---
+
+## 🌐 외부 링크
+> 👉 포트폴리오, 블로그, 링크드인 등의 링크는 여기에 추가 예정입니다.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OhJaeuk20&show_icons=true&theme=radical" alt="OhJaeuk20's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhJaeuk20&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OhJaeuk20&style=flat-square&color=blue" alt="Profile views" />
+</p>
