@@ -15,11 +15,11 @@
 ## 🛠️ 기술 스택
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-2023+-black?logo=unity&style=for-the-badge" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-2022+-black?logo=unity&style=for-the-badge" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" alt="Unreal Engine 5" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" alt="Unreal Engine 5" />
+    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#" />
 </p>
 
 ---
